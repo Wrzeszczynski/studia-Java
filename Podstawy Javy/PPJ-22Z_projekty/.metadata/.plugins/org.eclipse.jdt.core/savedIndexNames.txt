@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\_apa_DD\_galera\_2022Z\PPJ-22Z\PPJ-22Z_projekty\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

@@ -1,0 +1,7 @@
+﻿ (a+b)*c   ==   c(a+b)
+
+Kiedy Puchacz i Kicia wyruszyli w rejs życia
+W zgrabnej łódce groszkowozielonej
+Wzięli z sobą parówki, duży zapas gotówki
+I słój miodu z nalepką "The Honey".
+    Edward Lear (tł. S.Barańczak)

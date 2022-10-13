@@ -1,0 +1,14 @@
+// Tekst do sprawdzania struktury nawiasowej
+// MODYFIKACJA
+
+{ int[] T={1,2,3};
+  T[T[0]] = f((a>b)?T[(a-b)]: T[(b-a)]);
+  {{ (f()); g(); }}
+}
+// Do tego miejsca jest OK
+
+ ()) ][ }}   
+
+// ostatni wiersz: wadliwe nawiasy (), [], {}
+
+
