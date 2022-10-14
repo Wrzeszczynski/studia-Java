@@ -27,7 +27,7 @@ public class Main {
         int weekday = d.get(Calendar.DAY_OF_WEEK);
         System.out.println("weekday (day of week): "+weekday);
 
-        
+
 
 
         // get first day of week (Sunday in the U.S.)
